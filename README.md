@@ -26,6 +26,7 @@ with:
 
 # Links
 
+- [Docs](https://docs.github.com/en/actions/creating-actions)
 - [Github Actions Toolkit](https://github.com/actions/toolkit)
 
 # Notes
